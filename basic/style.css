@@ -1,0 +1,17 @@
+.item {
+    background-color: orange;
+    height: auto;
+    padding: 40px;
+}
+
+.item:nth-child(odd) {
+    margin-left: 50%;
+}
+
+.item:nth-child(even) {
+    margin-right: 50%;
+}
+
+
+
+
